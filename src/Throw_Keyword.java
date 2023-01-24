@@ -1,4 +1,4 @@
-public class Throw_and_throws {
+public class Throw_Keyword {
     public static void main(String[] args) {
 
         try {
